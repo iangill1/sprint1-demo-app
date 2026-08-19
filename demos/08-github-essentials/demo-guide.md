@@ -41,6 +41,7 @@ git clone https://github.com/<org>/sprint1-demo-app.git sprint1-demo-app-clone
 cd sprint1-demo-app-clone
 git log --oneline
 ```
+made change
 
 Narration: `clone` does three things in one command: creates a local folder, downloads the full
 history, and automatically sets up `origin` for you. This is how every teammate gets started.
